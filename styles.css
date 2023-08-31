@@ -90,7 +90,28 @@ p{
 }
 
 .container1{
-    padding-top: 150px;
-    background: hsl(207, 100%, 98%);
     margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.people{
+    margin-right: 150px;
+}
+
+.convo{
+    margin-left: 200px;
+}
+
+.con{
+    padding-top: 150px;
+    margin-right: 80px;
+}
+
+.ready{
+    padding-top: 150px;
+}
+
+.build{
+text-align: center;
+font-size: 2.5rem;
 }
